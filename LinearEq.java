@@ -6,6 +6,6 @@ public static void main(String args[]) {
 
 	Double answer = ((c-b)/a);
 		System.out.println(a + " * x + " + b + " = " + c);
-		System.out.println("X = " + answer);
+		System.out.println("x = " + answer);
 }
 }
